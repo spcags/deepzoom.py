@@ -20,9 +20,9 @@
 ### Installation
 
   1. [Get `pip`](http://www.pip-installer.org/en/latest/installing.html)
-  2. Run `sudo pip install pil`
+  2. Run `sudo pip install Pillow`
   3. Run `python`
-  4. Enter `import PIL` and make sure there’s no error
+  4. Enter `from PIL import Image` and make sure there’s no error
   5. Congratulations, you’re ready to use `deepzoom.py`
 
 ### Resources
